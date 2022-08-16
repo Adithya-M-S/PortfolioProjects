@@ -1,3 +1,5 @@
+--The data is taken from https://ourworldindata.org/covid-deaths and divided into two tables(CovidDeaths and CovidVaccinations)
+
 Select *
 From PortfolioProject..CovidDeaths
 where continent is not Null
